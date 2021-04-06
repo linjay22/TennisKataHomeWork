@@ -8,5 +8,6 @@ namespace TennisKata
 {
     class JayTest
     {
+        //
     }
 }
